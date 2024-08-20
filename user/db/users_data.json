@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Amit Sharma",
+        "age": "22",
+        "email": "amit@gmail.com",
+        "password": "$2y$10$qLRwimtoPCJKidIpwqYj3.CCWKIgQPSmZNs8GWmS9nJvw8Z66FVei",
+        "profile_photo": "uploads\/Screenshot 2024-04-16 184831.png"
+    },
+    {
+        "name": "Amit Sharma",
+        "age": "99",
+        "email": "amits@gmail.com",
+        "password": "$2y$10$roRcLKi2A9V07ycI2HqN3uy0h9JbprxCQOFhwk6ahsQNdxSxzrD52",
+        "profile_photo": "uploads\/Screenshot 2024-04-16 144033.png"
+    },
+    {
+        "name": "Amit",
+        "age": "3",
+        "email": "amss@yopmail.com",
+        "password": "$2y$10$rdCb8H3M.6Rd\/HqJ4R7ySOgLPZo\/j9QeR.s3nsOUH3Hob19jV1wwu",
+        "profile_photo": "uploads\/Screenshot 2024-04-16 184831.png"
+    }
+]
